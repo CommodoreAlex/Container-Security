@@ -11,7 +11,7 @@ The aim is to provide a practical, accessible resource that supports both learni
 ## Repository Structure
 ```text
 container-security-repo/
-├── docs/            # General container security concepts and tooling
+├── documents/            # General container security concepts and tooling
 ├── linux/           # Foundational primitives: namespaces, cgroups, capabilities
 ├── docker/          # Docker hardening, scanning, runtime security
 ├── podman/          # Podman-specific security features (e.g., rootless)
