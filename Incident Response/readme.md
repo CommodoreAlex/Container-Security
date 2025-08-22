@@ -22,10 +22,7 @@ incident-response/
 ├── orchestrators-iocs.md      # Helm/ArgoCD/Swarm compromise indicators
 ├── host-iocs.md               # Linux host logs, syscalls, journald, kernel messages
 ├── network-iocs.md            # Suspicious east-west traffic, CNI logs, DNS exfiltration
-└── splunk-dashboards/
-    ├── docker-dashboard.json  # Example Splunk/ELK detection content
-    ├── k8s-dashboard.json
-    └── network-dashboard.json
+└── splunk-queries/              # Focused query library for IOC detection
 ```
 
 ## Usage
