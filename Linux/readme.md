@@ -14,6 +14,7 @@ Understanding these primitives is essential for analyzing container isolation, r
 - **cgroups.md** – Resource limits, controlling CPU/memory to mitigate DoS attacks.  
 - **capabilities.md** – Managing Linux capabilities to reduce privilege exposure.  
 - **selinux.md** – Understanding SELinux, auditing AVC denials, managing policies, and administrative tasks for security monitoring.  
+- **auditd.md** – Comprehensive Linux Audit Daemon guide, including rules, logging, querying, and auditing workflows.
 
 ## Cross-References
 - See `docker/usage.md` and `podman/usage.md` for how these primitives are applied in container runtimes.
