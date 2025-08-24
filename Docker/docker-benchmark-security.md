@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Docker Bench Security** is a **scripted security audit tool** that checks for best practices around deploying Docker containers.  
+[**Docker Bench Security**](https://github.com/docker/docker-bench-security) is a **scripted security audit tool** that checks for best practices around deploying Docker containers.  
 It evaluates Docker daemon configuration, container runtime, host OS settings, and Docker networking against **CIS Docker Benchmarks**.
 
 This guide covers **installation, usage, and interpreting audit results**, providing auditors and administrators with actionable insights.
