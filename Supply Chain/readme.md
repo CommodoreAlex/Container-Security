@@ -5,11 +5,12 @@ Focuses on **container supply chain security**, including image signing, SBOM ge
 This section ensures that containerized applications are trustworthy from build to deployment.
 
 ## Contents
-- **usage.md** – Minimal introduction to image building, signing, and SBOM concepts.
-- **image-signing.md** – Using Cosign or Notary to sign container images.
-- **sbom.md** – Generating and verifying Software Bill of Materials.
-- **ci-cd-security.md** – Best practices for secure CI/CD pipelines.
-- **examples/** – Scripts and GitHub Actions workflows demonstrating supply chain security.
+- **usage.md** – Minimal introduction to image building, signing, and SBOM concepts.  
+- **image-signing.md** – Using Cosign or Notary to sign container images.  
+- **sbom.md** – Generating and verifying Software Bill of Materials.  
+- **grype.md** – Vulnerability scanning with Grype for Linux and container images.  
+- **ci-cd-security.md** – Best practices for secure CI/CD pipelines.  
+- **examples/** – Scripts and GitHub Actions workflows demonstrating supply chain security.  
 
 ## Cross-References
 - Container runtime guidance: `docker/`, `podman/`, `kubernetes/`.
