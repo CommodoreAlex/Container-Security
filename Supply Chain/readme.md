@@ -9,8 +9,9 @@ This section ensures that containerized applications are trustworthy from build 
 - **image-signing.md** – Using Cosign or Notary to sign container images.  
 - **sbom.md** – Generating and verifying Software Bill of Materials.  
 - **grype.md** – Vulnerability scanning with Grype for Linux and container images.  
+- **syft.md** – SBOM generation with Syft for Linux packages and container images.  
 - **ci-cd-security.md** – Best practices for secure CI/CD pipelines.  
-- **examples/** – Scripts and GitHub Actions workflows demonstrating supply chain security.  
+- **examples/** – Scripts and GitHub Actions workflows demonstrating supply chain security. 
 
 ## Cross-References
 - Container runtime guidance: `docker/`, `podman/`, `kubernetes/`.
