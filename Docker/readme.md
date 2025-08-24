@@ -8,6 +8,7 @@ This section covers **Docker container security**, from basic usage to hardening
 - **hardening.md** – Best practices for securing Docker hosts and containers.
 - **scanning.md** – Image vulnerability scanning using tools like Trivy or Clair.
 - **runtime-security.md** – Runtime protections including Seccomp, AppArmor, and logging.
+- **docker-bench-security.md** – Automated auditing against CIS Docker Benchmarks.
 - **DockerFiles/** – Insecure/secure Dockerfiles and Compose examples.
 
 ## Cross-References
