@@ -6,7 +6,7 @@ This section covers the foundational Linux features that enable containerization
 Understanding these primitives is essential for analyzing container isolation, resource controls, and potential security risks.
 
 ## Contents
-- **usage.md** – Minimal introduction to using namespaces, cgroups, and capabilities.
+- **ausearch.md** – Advanced IT security auditing with ausearch.
 - **namespaces.md** – Detailed explanation of PID, NET, MNT, IPC, UTS, USER namespaces.
 - **cgroups.md** – Resource limits, controlling CPU/memory to mitigate DoS attacks.
 - **capabilities.md** – Managing Linux capabilities to reduce privilege exposure.
